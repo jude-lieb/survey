@@ -1,0 +1,13 @@
+.back{
+    margin-right: 4rem;
+    position: absolute;
+    top: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;;
+}
+.dashboard{
+    position: absolute;
+    left: 50px;
+    top: 12px;
+}

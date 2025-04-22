@@ -1,0 +1,48 @@
+.format{
+    margin-left:320px;
+    margin-top:220px; 
+}
+
+.input{
+    margin-bottom: 20px;
+    height: 60px;
+    width: 500px;
+}
+
+.breakLine{
+    content: '';
+    height:2px;
+    width: 498px;
+    background-color: lightgray;
+    position: absolute;
+    bottom: 312px;
+    left: 345px;
+}
+
+.account{
+    position:relative;
+    top:120px;
+    padding-left: 145px;
+    color: grey;
+}
+
+.image{
+    width: 550px;
+    height: 550px;
+    position: absolute;
+    bottom: 200px;
+    left: 56.7%;
+}
+.back{
+    margin-left: 40px;
+    position: absolute;
+    top: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;;
+}
+.dashboard{
+    position: absolute;
+    left: 50px;
+    top: 12px;
+}
