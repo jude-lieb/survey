@@ -1,4 +1,4 @@
-# Web_System_1.0_Spring_2024
+# Spring 2024 Web Application (School Group Project)
 
 A simple project built using React, Flask, and SQLite.
 Made by Chintan Patel, Diana Karim, Jude Lieb, and Grace Lueking.
